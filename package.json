@@ -1,0 +1,22 @@
+{
+  "name": "ecomcypressjavascript",
+  "version": "1.0.0",
+  "description": "E-Com website Automation test  project in Cypress Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bintu27/EcomCypressJavaScript.git"
+  },
+  "author": "Bintu Dhillon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bintu27/EcomCypressJavaScript/issues"
+  },
+  "homepage": "https://github.com/bintu27/EcomCypressJavaScript#readme",
+  "devDependencies": {
+    "cypress": "^7.6.0"
+  }
+}
