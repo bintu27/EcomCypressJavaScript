@@ -19,5 +19,14 @@ class HomePage
             }
     })
         }
+        proceedToCheckout(){
+            return cy.get(".button-container .button-medium")
+        }
+        proceedToCheckoutSummary(){
+            return cy.get(".standard-checkout")
+        }
+        proceedToCheckoutAddress(){
+            return cy.get('button[type=submit][name=processAddress]')
+        }
     }
 export default HomePage;

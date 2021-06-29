@@ -1,4 +1,7 @@
 {
   "searchtext": "Printed",
-  "productName": "Printed Chiffon Dress"
+  "productName": "Printed Chiffon Dress",
+  "login": "abcdtest@test.com",
+  "password": "Abcdabcd",
+  "orderComplete": "Your order on My Store is complete."
 }
